@@ -12,9 +12,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=hhuynh2005&theme=github&area=true)
+![Contribution](https://github-readme-stats.vercel.app/api?username=hhuynh2005&show_icons=true&theme=default&include_all_commits=true)
 ---
 
 > “It is only when they go wrong that machines remind you how powerful they are.”  

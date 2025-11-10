@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Xin chào! Mình là **Nguyen Hoang Huynh**  
+🧠 AI Engineer in training | NLP | Computer Vision  
+📍 From Viet Nam  
 
-<!--
-**hhuynh2005/hhuynh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧩 About Me
+- 🎓 Student passionate about **Machine Learning** and **Deep Learning**  
+- 🔭 Working on personal AI projects such as `FastSpeech2`, `TTS`, and `Chatbot`  
+- 🌱 Currently learning: **Generative AI, LLMs, and RAG**  
+- 💬 Ask me about **Python, PyTorch **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hhuynh2005&theme=tokyonight)
+
+---
+
+> “It is only when they go wrong that machines remind you how powerful they are.”  
+> — *Clive James*

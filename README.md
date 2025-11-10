@@ -1,4 +1,4 @@
-# 👋 Xin chào! Mình là **Nguyen Hoang Huynh**  
+# Profile **Nguyen Hoang Huynh**  
 🧠 Junior AI Engineer in training | NLP | Computer Vision  
 📍 From Viet Nam  
 
@@ -11,8 +11,7 @@
 - 💬 Ask me about **Python, PyTorch **
 
 ---
-
-![Contribution](https://github-readme-stats.vercel.app/api?username=hhuynh2005&show_icons=true&theme=default&include_all_commits=true)
+[![hhuynh2005](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hhuynh2005)
 ---
 
 > “It is only when they go wrong that machines remind you how powerful they are.”  

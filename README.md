@@ -1,5 +1,5 @@
 # 👋 Xin chào! Mình là **Nguyen Hoang Huynh**  
-🧠 AI Engineer in training | NLP | Computer Vision  
+🧠 Junior AI Engineer in training | NLP | Computer Vision  
 📍 From Viet Nam  
 
 ---
@@ -14,8 +14,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hhuynh2005&theme=tokyonight)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hhuynh2005&theme=github-dark&area=true&hide_border=true)
 ---
 
 > “It is only when they go wrong that machines remind you how powerful they are.”  

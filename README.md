@@ -11,7 +11,7 @@
 - 💬 Ask me about **Python, PyTorch **
 
 ---
-![Snake animation](https://raw.githubusercontent.com/hhuynh2005/hhuynh2005/output/github-contribution-grid-snake.svg)
+(https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 ---
 
 > “It is only when they go wrong that machines remind you how powerful they are.”  
